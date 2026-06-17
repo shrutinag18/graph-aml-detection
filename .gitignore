@@ -1,1 +1,4 @@
 data/SAML-D.csv
+data/*.csv
+data/*.parquet
+data/*.zipdata/*.csv

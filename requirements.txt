@@ -1,6 +1,9 @@
-pandas
-numpy
 networkx
-torch
 torch-geometric
-scikit-learn
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+torch>=2.3
+rtdl>=0.0.13
