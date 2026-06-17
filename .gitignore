@@ -2,3 +2,5 @@ data/SAML-D.csv
 data/*.csv
 data/*.parquet
 data/*.zipdata/*.csv
+.DS_Store
+**/.DS_Store
